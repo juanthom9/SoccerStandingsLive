@@ -1,4 +1,4 @@
-# ⚽ SoccerStandingsLive - Real-Time Soccer Table Analytics Platform
+# ⚽ SoccerStandingsLive — Real-Time Soccer Table Analytics Platform
 
 Live European football standings, real-time sports data integration, and performance-optimized frontend engineering built with modern web technologies.
 
