@@ -8,7 +8,7 @@ Next.js • TypeScript • REST APIs • Responsive UI • Real-Time Data • Sp
 
 ---
 
-# Important
+# Description
 
 This is not just a static soccer standings website.
 
